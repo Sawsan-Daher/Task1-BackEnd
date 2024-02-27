@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "fname": "sawsan",
+        "lname": "daher",
+        "age": 34,
+        "city": "damascus"
+    },
+    {
+        "id": 3,
+        "fname": "reham",
+        "lname": "mohammed",
+        "age": 42,
+        "city": "dubai"
+    },
+    {
+        "id": 5,
+        "fname": "basma",
+        "lname": "yassen",
+        "age": 39,
+        "city": "bairut"
+    },
+    {
+        "id": 7,
+        "fname": "heba",
+        "lname": "ziad",
+        "age": 30,
+        "city": "mansoura"
+    },
+    {
+        "id": 9,
+        "fname": "nada",
+        "lname": "jalal",
+        "age": 25,
+        "city": "cairo"
+    },
+    {
+        "id": 10,
+        "fname": "diana",
+        "lname": "yousef",
+        "age": 32,
+        "city": "damascus"
+    }
+]
